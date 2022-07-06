@@ -18,14 +18,13 @@ https://drive.google.com/file/d/0B3y_msrWZaXLT1BZdVdycDY5TEE/view?resourcekey=0-
 
 ## File View:
 Project File Name:
-
-1.---birds
-2. -------test
-3. -------text_c10
-4. -------train
-5. ---CUB_200_2011
-6. -------attributes
-7. -------images
-8. -------parts
-9. ---results
-10 ---results_2
+###---birds
+###-------test
+###-------text_c10
+###-------train
+###---CUB_200_2011
+###-------attributes
+###-------images
+###-------parts
+###---results
+###---results_2
