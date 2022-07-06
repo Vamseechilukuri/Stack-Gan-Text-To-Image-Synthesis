@@ -16,15 +16,3 @@ https://drive.google.com/file/d/0B3y_msrWZaXLT1BZdVdycDY5TEE/view?resourcekey=0-
 2. filenames.pickle — Dataframe containing the filenames of the images.
 3. class_info.pickle — Dataframe containing the info of classes for each image.
 
-## File View:
-Project File Name:
-###---birds
-###-------test
-###-------text_c10
-###-------train
-###---CUB_200_2011
-###-------attributes
-###-------images
-###-------parts
-###---results
-###---results_2
